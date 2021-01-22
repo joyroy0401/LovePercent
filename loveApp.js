@@ -9,4 +9,4 @@ number = Math.floor(number)*1;
 
 // Showing result
 
-alert(firstName + " and " + partnerName + "'S Love percentage is : " + number + "%")
+alert(firstName + " এবং " + partnerName + "ভালোবাসার পরিমান: " + number + "%")
